@@ -1,0 +1,3 @@
+[submodule "javascript-test-recipes"]
+	path = javascript-test-recipes
+	url = git@github.com:JohnLockwood/javascript-test-recipes.git

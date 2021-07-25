@@ -1,5 +1,5 @@
 # js_learn
-This is an ambitious self-teaching adventure for several experiments in: 
+This is an ambitious self-teaching adventure for several experiments in the following:
 
 * Typescript
 * Cordova

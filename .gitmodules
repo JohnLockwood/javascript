@@ -1,3 +1,6 @@
 [submodule "javascript-test-recipes"]
 	path = javascript-test-recipes
 	url = git@github.com:JohnLockwood/javascript-test-recipes.git
+[submodule "mocha-examples"]
+	path = mocha-examples
+	url = git@github.com:mochajs/mocha-examples.git
